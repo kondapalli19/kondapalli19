@@ -31,7 +31,7 @@
 /**
  * Represents me.
  * @constructor
- * @param {string} city - Bhubaneswar, Odisha(Currently).
+ * @param {string} city - Kochi, Kerala(Currently).
  * @param {string} languagues - English, German, Hindi.
  * @param {string} jobTitle - Full Stack Developer.
  * @param {string} specialization - Building full-fledged web applications.
